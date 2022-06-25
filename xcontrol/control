@@ -1,0 +1,12 @@
+Package: pnetlab-docker
+Version: 4.0.0
+Name: PNETLab Docker
+Architecture: amd64
+Section: devel
+Priority: optional
+Maintainer: pnetlab.com
+Homepage: http://www.pnetlab.com
+Conflicts: eve-ng-docker
+Replaces: docker-engine, docker-ce
+Depends: docker.io
+Description: Docker PNETLab compatible

@@ -1,0 +1,3 @@
+systemctl enable docker
+service docker start
+exit 0;
